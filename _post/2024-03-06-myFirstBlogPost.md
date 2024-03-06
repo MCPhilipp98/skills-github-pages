@@ -1,4 +1,4 @@
 ---
-title: "My fist blog post"
+title: "My first blog post"
 date: 2024-03-06
 ---
